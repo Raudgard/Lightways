@@ -18,6 +18,19 @@ Information Collection and Use
 For a better experience, while using our Service, 
 I may require you to provide us with certain personally identifiable information. 
 The information that I request will be retained on your device and is not collected by me in any way.
+To delete this information, you just need to delete this application.
+
+Your personal and confidential data is securely processed on your device and is not transferred anywhere by me.
+The application collects the following types of data:
+
+1. Approximate location
+2. User IDs
+3. Purchase History
+4. Actions in applications
+5. Diagnostic data of the device
+6. Device IDs and Advertising ID
+
+I, Raudgard, do not collect or receive this data. But perhaps this data can be sent to Google and Unity companies.
 
 The app does use third-party services that may collect information used to identify you.
 
@@ -32,7 +45,7 @@ I may update our Privacy Policy from time to time.
 Thus, you are advised to review this page periodically for any changes. 
 I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-06-01
+This policy is effective as of 2024-05-29
 
 Contact Me
 
